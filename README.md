@@ -1,1 +1,1 @@
-Автотесты для Postman для тестирования API HeadHunter
+Автотесты Postman для тестирования API HeadHunter
